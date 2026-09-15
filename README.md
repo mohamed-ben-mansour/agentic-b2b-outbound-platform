@@ -4,7 +4,7 @@ Production-grade multi-agent platform for autonomous B2B outbound, from ICP disc
 Each agent below handles one stage of that pipeline.
 # Nudge AI Outbound
 
-## Agents
+## Agents: click the icon to get to the intended repository
 
 [![Intelligence Sourcer](https://img.shields.io/badge/Agent-Intelligence%20Sourcer-2ea44f?style=for-the-badge)](https://github.com/mohamed-ben-mansour/nudge-intelligence-sourcer)
 Finds and gathers new leads.
