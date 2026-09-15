@@ -1,2 +1,22 @@
 # agentic-b2b-outbound-platform
 Production-grade multi-agent platform for autonomous B2B outbound, from ICP discovery and lead qualification to multi-source enrichment, personalized sequence generation, human validation, message generation, adaptive sequence execution, and outbound message sending.
+
+Each agent below handles one stage of that pipeline.
+# Nudge AI Outbound
+
+## Agents
+
+[![Intelligence Sourcer](https://img.shields.io/badge/Agent-Intelligence%20Sourcer-2ea44f?style=for-the-badge)](https://github.com/mohamed-ben-mansour/nudge-intelligence-sourcer)
+Finds and gathers new leads.
+
+[![Qualifier Engine](https://img.shields.io/badge/Agent-Qualifier%20Engine-2ea44f?style=for-the-badge)](https://github.com/mohamed-ben-mansour/nudge-qualifier-engine)
+Checks each lead, and keeps the good ones.
+
+[![Personalization Engine](https://img.shields.io/badge/Agent-Personalization%20Engine-2ea44f?style=for-the-badge)](https://github.com/mohamed-ben-mansour/nudge-personalization-engine)
+Writes personalized outreach for each lead.
+
+[![Orchestrator](https://img.shields.io/badge/Agent-Orchestrator-2ea44f?style=for-the-badge)](https://github.com/mohamed-ben-mansour/nudge_ai_outbound_orchestrator)
+Runs every agent in order, and passes leads between them.
+
+[![Dashboard](https://img.shields.io/badge/View-Dashboard-007ec6?style=for-the-badge)](https://github.com/mohamed-ben-mansour/nudge-ai-outbound-dashboard)
+Shows the full pipeline, live.
